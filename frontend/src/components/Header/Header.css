@@ -1,0 +1,21 @@
+.ml-auto {
+    margin-left: auto !important;
+}
+
+.logo {
+    width: 230px;
+    height: auto;
+}
+
+.nav-link.router-link-exact-active {
+    color: rgb(0, 0, 0) !important;
+}
+
+.navbar-nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-nav button.btn-danger {
+    margin: 0 8px;
+}
