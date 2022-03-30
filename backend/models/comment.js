@@ -6,7 +6,6 @@ module.exports = (sequelize, DataTypes) => {
   class Comment extends Model {
     /**
       * Méthode d'assistance pour définir des associations.
-      * Cette méthode ne fait pas partie du cycle de vie de Sequelize.
       * Le fichier `models/index` appellera cette méthode automatiquement.
       */
     static associate(models) {
